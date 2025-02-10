@@ -1,0 +1,1 @@
+TextExtracter-AI is a powerful AI-based tool designed to extract text from images and scanned documents using Optical Character Recognition (OCR) techniques. It leverages AI models to enhance accuracy and improve text recognition
